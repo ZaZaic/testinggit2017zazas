@@ -12,7 +12,7 @@ ${CHROME}         Chrome
 test1
 	Specifying Path To GeckoDriver
     Go To    https://stackoverflow.com
-    Sleep    2 s
+    Sleep    3 s
 [TC-001]-Launching the browser and search and launch the 'uftHelp' Application on Google.com
     Launch Browser
     Search Application On Google
